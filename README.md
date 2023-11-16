@@ -6,7 +6,7 @@
 ![fat-cat-laser-eyes](https://github.com/LGErdmann/LGErdmann/assets/63938851/227bd05c-8f9a-410c-a9aa-6f0a550545df)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LGErdmann&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LGErdmann&show_icons=true&theme=radical&card_width=1000px )
 <!--
 **LGErdmann/LGErdmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
