@@ -1,4 +1,5 @@
 ### Hi there 👋
+![shocked-shocked-cat](https://github.com/LGErdmann/LGErdmann/assets/63938851/12736a36-7693-4eae-b8b6-61a2cf197b88)
 
 <!--
 **LGErdmann/LGErdmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
