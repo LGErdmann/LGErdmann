@@ -3,6 +3,7 @@
 ![silly-cat-cat-meme-face](https://github.com/LGErdmann/LGErdmann/assets/63938851/4e555047-1c81-45cb-afc7-125857cdf97d)
 ![cat-kiss](https://github.com/LGErdmann/LGErdmann/assets/63938851/5bd3aa97-4c84-4685-931c-18a481891e58)
 ![cat-kiss](https://github.com/LGErdmann/LGErdmann/assets/63938851/5fb178d3-fb7e-4f1a-a083-0a595f7c34e3)
+![fat-cat-laser-eyes](https://github.com/LGErdmann/LGErdmann/assets/63938851/227bd05c-8f9a-410c-a9aa-6f0a550545df)
 
 <!--
 **LGErdmann/LGErdmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
