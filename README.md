@@ -1,10 +1,7 @@
 <h1 align="center">LG Erdmann</h1>
 
 <p align="center">
-  <img src="https://github.com/LGErdmann/LGErdmann/assets/63938851/12736a36-7693-4eae-b8b6-61a2cf197b88" alt="shocked cat" height="120">
-  <img src="https://github.com/LGErdmann/LGErdmann/assets/63938851/4e555047-1c81-45cb-afc7-125857cdf97d" alt="silly cat" height="120">
-  <img src="https://github.com/LGErdmann/LGErdmann/assets/63938851/5bd3aa97-4c84-4685-931c-18a481891e58" alt="cat kiss" height="120">
-  <img src="https://github.com/LGErdmann/LGErdmann/assets/63938851/5fb178d3-fb7e-4f1a-a083-0a595f7c34e3" alt="cat kiss" height="120">
+  <a href="https://github.com/LGErdmann/GA---Beatle"><img src="assets/besouros.gif" alt="Besouros em ASCII andando" width="100%"></a>
 </p>
 
 ---
