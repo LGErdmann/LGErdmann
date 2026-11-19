@@ -1,7 +1,7 @@
 <h1 align="center">LG Erdmann</h1>
 
 <p align="center">
-  <a href="https://github.com/LGErdmann/GA---Beatle"><img src="assets/besouros.gif" alt="Besouros em ASCII andando" width="100%"></a>
+  <a href="https://github.com/LGErdmann/GA---Beatle"><img src="https://raw.githubusercontent.com/LGErdmann/LGErdmann/main/assets/besouros-acai.gif" alt="Besouros em ASCII andando" width="100%"></a>
 </p>
 
 ---
@@ -18,6 +18,6 @@
 ### Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LGErdmann&show_icons=true&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e&icon_color=8b949e" alt="Estatísticas do GitHub" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LGErdmann&layout=compact&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e" alt="Linguagens mais usadas" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=LGErdmann&show_icons=true&hide_border=true&bg_color=1b0a1f&title_color=c9a0dc&text_color=b784c9&icon_color=9b59b6" alt="Estatísticas do GitHub" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LGErdmann&layout=compact&hide_border=true&bg_color=1b0a1f&title_color=c9a0dc&text_color=b784c9" alt="Linguagens mais usadas" height="165">
 </p>
